@@ -1,4 +1,4 @@
-![MasterHead]([https://tr.pngtree.com/freebackground/futuristic-girl-robot-eye-tech-background_15471054.html](https://media.istockphoto.com/id/826548220/tr/foto%C4%9Fraf/kokpit-u%C3%A7u%C5%9F-g%C3%BCvertesi-g%C3%BCnbat%C4%B1m%C4%B1.jpg?s=612x612&w=0&k=20&c=rhXUSSVBu8GzFwn8aP3exIlAukuSDNBgC8tz5WCd2M0=))
+![MasterHead]([[https://tr.pngtree.com/freebackground/futuristic-girl-robot-eye-tech-background_15471054.html](https://media.istockphoto.com/id/826548220/tr/foto%C4%9Fraf/kokpit-u%C3%A7u%C5%9F-g%C3%BCvertesi-g%C3%BCnbat%C4%B1m%C4%B1.jpg?s=612x612&w=0&k=20&c=rhXUSSVBu8GzFwn8aP3exIlAukuSDNBgC8tz5WCd2M0=)](https://haber.aero/wp-content/uploads/2024/03/GIi7X1ZXsAEAghk-scaled-e1710632924644.jpeg))
 
 <h1 align="center">Hi, I'm Muhammet Ali YOLDAR</h1>
 <h3 align="center">As a passionate computer engineer from Turkey, I am a developer of artificial intelligence, machine learning, deep learning, image processing and embedded systems</h3>
