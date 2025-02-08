@@ -1,11 +1,11 @@
- [![MasterHead](https://tr.pngtree.com/freebackground/futuristic-girl-robot-eye-tech-background_15471054.html)
+ [![MasterHead]([https://tr.pngtree.com/freebackground/futuristic-girl-robot-eye-tech-background_15471054.html](https://media.istockphoto.com/id/826548220/tr/foto%C4%9Fraf/kokpit-u%C3%A7u%C5%9F-g%C3%BCvertesi-g%C3%BCnbat%C4%B1m%C4%B1.jpg?s=2048x2048&w=is&k=20&c=JIspFPnUD1mDhXv4OJ5hfjx3FmQt1nidip9CXFeJwEM=))
 
 <h1 align="center">Hi, I'm Muhammet Ali YOLDAR</h1>
 <h3 align="center">As a passionate computer engineer from Turkey, I am a developer of artificial intelligence, machine learning, deep learning, image processing and embedded systems</h3>
 
 - I'm a **Computer Engineer**
 
-- My experiences: **<br/>Menaco software founder and artificial intelligence developer <br/>METU-GUNAM research student <br/>t3ai project artificial intelligence developer**
+- My experiences: **<br/>Menaco Software founder and artificial intelligence developer <br/>METU-GUNAM research student <br/>t3ai project artificial intelligence developer**
 
 - I’m currently working on **Artificial Intelligence**
 
