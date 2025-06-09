@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammet Ali YOLDAR</h1>
-<h3 align="center">As a passionate computer engineer from Turkey, I am a developer of artificial intelligence, machine learning, deep learning, image processing and embedded systems</h3>
+<h3 align="center">As a passionate computer engineer from Turkey, I am a developer of artificial intelligence, machine learning, deep learning, data science, image processing and embedded systems</h3>
 
 - I'm a **Computer Engineer**
 
