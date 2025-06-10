@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Muhammet Ali YOLDAR</h1>
-<h3 align="center">As a passionate computer engineer from Turkey, I am a developer of artificial intelligence, machine learning, deep learning, data science, image processing and embedded systems</h3>
+<h3 align="center">As a passionate computer engineer from Turkey, I am a developer of machine learning, deep learning, data science, computer vision and embedded systems/IOT</h3>
 
 - I'm a **Computer Engineer**
-
-- My experiences: **<br/>Menaco Software founder and artificial intelligence developer <br/>METU-GUNAM research student <br/>t3ai project artificial intelligence developer**
 
 - I’m currently working on **Artificial Intelligence**
 
