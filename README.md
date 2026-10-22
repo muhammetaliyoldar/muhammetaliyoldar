@@ -1,4 +1,4 @@
-Building AI systems that see and run reliably in the real world, from data and training to real-time deployment.
+If it can be conceived, it can be created.
 
 **Focus:** AI/ML Engineer | Computer Vision | Edge AI
 
