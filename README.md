@@ -1,4 +1,4 @@
-If it can be conceived, it can be created.
+If it can be imagined, it can be created.
 
 **Focus:** AI/ML Engineer | Computer Vision | Edge AI
 
